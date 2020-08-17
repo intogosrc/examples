@@ -29,7 +29,7 @@ func (t *Test) Run(speed int64) (string, int64) {
 }
 
 func main() {
-	method()
+	StructToMapTest()
 }
 
 func sample() {
